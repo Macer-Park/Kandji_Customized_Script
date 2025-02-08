@@ -1,7 +1,7 @@
-# Kandji Support Repo
+Please feel free to use these wallpapers on your fleet. If used in other assets, such as on your marketing website, digital advertising or printed materials please attribute Kandji directly as required by the below license. 
 
-## License Information
-### Copyright 2024 Kandji, Inc.
+# License Information
+# Copyright 2022 Kandji, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software

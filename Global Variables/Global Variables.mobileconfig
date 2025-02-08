@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Kandji Global Variables</string>
+			<key>PayloadIdentifier</key>
+			<string>io.kandji.globalvariables.8AFB935E-EB53-448E-833C-822455FFB3D3</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>io.kandji.globalvariables</string>
+			<key>PayloadUUID</key>
+			<string>8AFB935E-EB53-448E-833C-822455FFB3D3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SERIAL_NUMBER</key>
+			<string>$SERIAL_NUMBER</string>
+			<key>DEVICE_NAME</key>
+			<string>$DEVICE_NAME</string>
+			<key>ASSET_TAG</key>
+			<string>$ASSET_TAG</string>
+			<key>UDID</key>
+			<string>$UDID</string>
+			<key>PROFILE_UUID</key>
+			<string>$PROFILE_UUID</string>
+			<key>EMAIL</key>
+			<string>$EMAIL</string>
+			<key>FULL_NAME</key>
+			<string>$FULL_NAME</string>
+			<key>EMAIL_PREFIX</key>
+			<string>$EMAIL_PREFIX</string>
+			<key>DEPARTMENT</key>
+			<string>$DEPARTMENT</string>
+			<key>JOB_TITLE</key>
+			<string>$JOB_TITLE</string>			
+			<key>DEVICE_ID</key>
+			<string>$DEVICE_ID</string>
+			<key>BLUEPRINT_NAME</key>
+			<string>$BLUEPRINT_NAME</string>
+			<key>BLUEPRINT_ID</key>
+			<string>$BLUEPRINT_ID</string>
+			<key>MODEL_NAME</key>
+			<string>$MODEL_NAME</string>
+			<key>MODEL_IDENTIFIER</key>
+			<string>$MODEL_IDENTIFIER</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Kandji Global Variables</string>
+	<key>PayloadDisplayName</key>
+	<string>Global Variables</string>
+	<key>PayloadIdentifier</key>
+	<string>io.kandji.globalvariables.265684E2-8DCC-464B-8C6A-606E89C630DA</string>
+	<key>PayloadOrganization</key>
+	<string>Kandji, Inc.</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>265684E2-8DCC-464B-8C6A-606E89C630DA</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
